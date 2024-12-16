@@ -7,10 +7,10 @@ Tôi là Nguyễn Nam Dương, một lập trình viên yêu thích __[ngôn ng�
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namduongit&layout=compact)
 
 
-## 🌐 Theo dõi tôi:
-- 🌐 [Facebook](https://www.facebook.com/nduongit)
-- 📸 [Instagram](https://www.instagram.com/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nduongit/)
+## 🌐 Kết nối với tôi:
+<a href="https://zalo.me/yourprofile" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/007AFF/zalo.png" alt="Zalo" style="width:40px; height:40px;">
+</a>
 
 
 
