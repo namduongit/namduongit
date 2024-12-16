@@ -8,9 +8,9 @@ Tôi là Nguyễn Nam Dương, một lập trình viên yêu thích __[ngôn ng�
 
 
 ## 🌐 Theo dõi tôi:
-- [![Facebook Icon](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/nduongit) **Facebook**
-- [![Instagram Icon](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.facebook.com/nduongit) **Instagram**
-- [![LinkedIn Icon](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/nduongit/) **LinkedIn**
+- 🌐 [Facebook](https://www.facebook.com/nduongit)
+- 📸 [Instagram](https://www.instagram.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nduongit/)
 
 
 
