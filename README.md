@@ -1,19 +1,16 @@
 <h2 align="center">📑 Hello, I'm Nguyễn Nam Dương 📑</h2>
 <br>
 <p align="center">
-  👋 Hi there! My name is Nguyễn Nam Dương, and I am a student at <strong>Trường Đại học Sài Gòn</strong> in District 5, <strong>Hồ Chí Minh City</strong>. I'm currently pursuing a degree in <strong>Software Engineering</strong> under the Faculty of Information Technology. 
+  👋 Hi, I'm Nguyễn Nam Dương, a Software Engineering student at <strong>Trường Đại học Sài Gòn</strong>, Hồ Chí Minh City. I'm passionate about both frontend and backend development, especially in web technologies.
   <br><br>
-  🎓 I am passionate about software development, and I am constantly exploring new technologies and tools to expand my skills. I have a strong interest in both frontend and backend development, with a particular focus on web technologies.
+  🎓 I'm expected to graduate in 2028 and aim to contribute to the tech industry by creating impactful software solutions. I love learning new technologies and collaborating with others to build innovative projects.
   <br><br>
-  🚀 I expect to graduate in 2028, and I'm excited about the opportunities that lie ahead. My goal is to contribute to the tech industry by building innovative and impactful software solutions. I am always eager to learn and collaborate with like-minded individuals to create amazing things.
+  ♟️ Outside of coding, I enjoy playing **Cờ Tướng** (Chinese Chess), a strategic game where two players compete to checkmate each other’s king using different pieces with unique abilities.
   <br><br>
-  ♟️ Apart from my studies, I also have a deep passion for playing **Cờ Tướng** (Chinese Chess). It is a fascinating strategy board game that originated in China and is widely played across East Asia. The game involves two players who maneuver pieces on a 9x10 board with the goal of checkmating the opponent's king, or "General." The pieces have different abilities and must be strategically positioned to capture the opponent's pieces. 
-  <br><br>
-  💡 Feel free to connect with me, whether it's for technical discussions, collaboration, or just to chat about software development or even a game of Cờ Tướng! I look forward to the exciting journey ahead!
+  💡 Feel free to reach out if you want to discuss tech, collaborate, or even challenge me to a game of Cờ Tướng!
 </p>
 
 <br>
-
 
 <h2 align="center">💻 Technologies & Tools I Use for Development 💻</h2>
 <br>
@@ -71,7 +68,7 @@
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namduongit&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=namduongit&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=namduongit&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github" />
   </a>
 </div>
 
