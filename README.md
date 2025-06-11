@@ -1,14 +1,12 @@
 <h2 align="center">📑 Hello, I'm Nguyễn Nam Dương 📑</h2>
+
 <br>
 <p align="center">
   👋 Hi, I'm Nguyễn Nam Dương, a Software Engineering student at <strong>Trường Đại học Sài Gòn</strong>, Hồ Chí Minh City. I'm passionate about both frontend and backend development, especially in web technologies.
 </p>
 
 <br>
-
-<br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-
 <br>
 <div align=center>
   <a href="#">
@@ -18,9 +16,8 @@
 
 <br>
 <h2 align="center">📬 Get in Touch with Me 📬</h2>
-<br>
 
-<div align="center">
+<br>
 <div align="center">
   <a href="https://facebook.com/namduongit" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"/>
@@ -28,15 +25,8 @@
   <a href="https://www.linkedin.com/in/namduongit" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/>
   </a>
-  <a href="https://instagram.com/namduongit" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png"/>
-  </a>
   <a href="mailto:nguyennamduong205@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png"/>
   </a>
-  <a href="https://t.me/namduongit" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/telegram-app.png"/>
-  </a>
 </div>
-  
-</div>
+
